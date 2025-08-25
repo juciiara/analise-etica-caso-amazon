@@ -9,6 +9,6 @@ Aqui você encontrará:
 - Impactos sociais e direitos digitais relacionados à tecnologia.  
 - Recomendações práticas para o desenvolvimento de sistemas de IA **responsáveis e inclusivos**.  
 
-📄 [Visualizar PDF completo do relatório](https://github.com/leandrotottioficialcantor-cpu/Educa_livre/blob/main/docs/Relatorio_Etica_Amazon.pdf)
+📄 [Visualizar PDF completo do relatório](https://github.com/juciiara/analise-etica-caso-amazon/blob/main/Relat%C3%B3rio%20de%20An%C3%A1lise%20%C3%89tica.pdf)
 
 Equipe: **Leandro Cavalcante, Ana Paula Bastos, Suzana Marks e Juciara E. Conceição**
