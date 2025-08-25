@@ -11,4 +11,4 @@ Aqui você encontrará:
 
 📄 [Visualizar PDF completo do relatório](https://github.com/juciiara/analise-etica-caso-amazon/blob/main/Relat%C3%B3rio%20de%20An%C3%A1lise%20%C3%89tica.pdf)
 
-Equipe: **Leandro Cavalcante, Ana Paula Bastos, Suzana Marks e Juciara E. Conceição**
+Equipe: **Leandro Cavalcante, Ana Paula Bastos, Suzana Marks e Juciara Conceição**
